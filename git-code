@@ -1,0 +1,14 @@
+### Summary of Changes:
+- Fixed the login issue on mobile devices where the form was not rendering correctly.
+- Added validation for empty input fields on the login page.
+
+### Why these changes are needed:
+- The login form was broken on smaller screens, preventing users from logging in.
+- This fix improves the user experience on mobile devices.
+
+### Testing Instructions:
+1. Clone the repository.
+2. Checkout the `fix-login-mobile` branch.
+3. Test the login form on mobile devices to ensure it renders correctly.
+
+
